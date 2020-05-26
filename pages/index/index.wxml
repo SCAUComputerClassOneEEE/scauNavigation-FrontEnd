@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container">
+    <image class='background' src="/images/bg1.jpg" mode="aspectFill"></image>
+    <image class="logo" src="/images/campus.jpg" ></image>
+    <button type="primary" class="botton-container" bindtap="chooseImageTap">识别建筑</button>
+</view>
