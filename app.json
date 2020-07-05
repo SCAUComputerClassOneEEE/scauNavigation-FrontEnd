@@ -1,14 +1,18 @@
 {
-  "pages":[
-    "pages/index/index"
+  "pages": [
+    "pages/index/index",
+    "pages/index/introduction/introduction",
+
+    "pages/index/introduction/navigation/navigation"
   ],
-  "window":{
-    "backgroundTextStyle":"light",
+  "window": {
+    "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "校园导航",
-    "navigationBarTextStyle":"black"
-    
+    "navigationBarTextStyle": "black"
   },
   "style": "v2",
-  "sitemapLocation": "sitemap.json"
+  "sitemapLocation": "sitemap.json",
+  "usingComponents": {},
+  "navigateToMiniProgramAppIdList":["wx7643d5f831302ab0"]
 }
