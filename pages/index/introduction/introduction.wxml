@@ -10,7 +10,7 @@
 </view>
 
 <view class="introduction-container">
-  <view class="introduction-text weui-article__p" style="height:{{introductionTextHeight}}">华南农业大学（South China Agricultural University），简称华农，是一所以农业科学和生命科学为优势，以热带亚热带区域农业研究为特色的全国重点大学，广东省人民政府和农业农村部共建的省部共建大学，为广东省“211工程”、广东省高水平大学建设高校，入选国家”特色重点学科项目“建设高校、国家建设高水平大学公派研究生项目、教育部首批”三全育人“改革试点高校、全国深化创新创业教育改革示范高校、中国政府奖学金来华留学生接收院校、国家“卓越农林人才教育培养计划”改革试点高校、国家大学生文化素质教育基地、首批高等学校科技成果转化和技术转移基地、国家“111计划”，粤港澳高校联盟、CDIO工程教育联盟成员单位。</view>
+  <view class="introduction-text weui-article__p" style="height:{{introductionTextHeight}}">华南农业大学（South China Agricultural University），简称华农，是一所以农业科学和生命科学为优势，以热带亚热带区域农业研究为特色的全国重点大学，广东省人民政府和农业农村部共建的省部共建大学，为广东省“211工程”、广东省高水平大学建设高校，入选国家”特色重点学科项目“建设高校、、</view>
   <view class="showMoreButton" bindtap="showMoreAndLess">
     <image src="{{showMoreAndLessPicture}}" style="width:50rpx;height:50rpx;"></image>
   </view>
